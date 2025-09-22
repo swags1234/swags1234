@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="assets/hello-world-header.png" alt="Hello, World!" width="960">
-</p>
+
 <!-- swags1234 • Profile README (Dark + Images + Snake) -->
 
 <!-- Header image (local). Upload assets/header-hello-world.png to your repo. -->
-<p align="center">
-  <img src="assets/header-hello-world.png" alt="Hello, World!" width="960">
-</p>
+
 
 <h3 align="center">Nikita (swags1)</h3>
 <p align="center">builds reliable systems • shipping fast, testing faster</p>
