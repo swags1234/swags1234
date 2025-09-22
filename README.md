@@ -53,3 +53,32 @@
 
 ## `$ reference-arch`
 
+
+<details>
+  <summary><b>$ now</b> • текущий фокус (нажми, чтобы раскрыть)</summary>
+
+- shipping: опиши в 1 строку актуальную фичу/процесс  
+- learning: 1–2 темы (например, Rust / tracing patterns)
+</details>
+
+---
+
+### `$ metrics` (можно оставить как есть или удалить целиком)
+<p>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=swags1234&bg_color=0B1220&color=00F1A1&line=0EA5E9&point=FFFFFF&area=true&hide_border=true" alt="activity graph">
+  </a>
+</p>
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="156" src="https://github-readme-stats.vercel.app/api?username=swags1234&show_icons=true&theme=dark&hide_border=true&bg_color=0B1220&title_color=00F1A1&icon_color=0EA5E9&text_color=E5E7EB" alt="stats">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="156" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swags1234&layout=compact&theme=dark&hide_border=true&bg_color=0B1220&title_color=00F1A1&text_color=E5E7EB" alt="langs">
+  </a>
+</p>
+
+<p align="center">
+  <img alt="live" height="14" src="https://svgshare.com/i/17vt.svg">
+  <sub>no bloat · clean badges · subtle animation</sub>
+</p>
