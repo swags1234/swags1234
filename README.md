@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F1A1&center=true&vCenter=true&width=720&lines=Nikita+(swags1);Builder+of+reliable+systems;DX-obsessed+%E2%80%A2+shipping+fast%2C+testing+faster"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F1A1&center=true&vCenter=true&width=720&lines=Builder+of+reliable+systems;DX-obsessed+%E2%80%A2+shipping+fast%2C+testing+faster"
     alt="typing animation"
   />
 </p>
