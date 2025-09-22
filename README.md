@@ -55,6 +55,9 @@
 </p>
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=swags1234&theme=darkhub&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 ## $ principles
 - Small, composable services → predictable releases & rollbacks  
