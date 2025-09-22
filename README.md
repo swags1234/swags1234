@@ -1,16 +1,25 @@
-## Hi there 👋
+<!-- Dark Terminal × Tech-Spec — profile README -->
+<pre>
+$ whoami
+Nikita — builds reliable systems; shipping fast, testing faster
 
-<!--
-**swags1234/swags1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ contact
+telegram: @nikitosixs124
+email:    nikitosix1994@gmail.com
+discord:  swags1
+twitter:  @nikitosixs124
+</pre>
 
-Here are some ideas to get you started:
+## principles
+- small, composable services > accidental monoliths
+- strict typing, CI as a gate, reproducible envs
+- observability first: traces on critical paths
+- security by default: least privilege & no long-lived secrets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## selected-work
+<pre>
+[ a ] ETHLossTrap -> repo: https://github.com/swags1234/ETHLossTrap
+[ b ] daily       -> repo: https://github.com/swags1234/daily
+</pre>
+
+## reference-arch
