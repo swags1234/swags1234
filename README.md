@@ -65,23 +65,9 @@
 - Observability-first: traces on critical paths  
 - Least-privilege; no long-lived secrets
 
-  <!-- Dark (Dracula) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" align="center"
-       src="https://github-readme-stats.vercel.app/api?username=swags1234&show_icons=true&rank_icon=github&theme=dracula#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=swags1234&layout=donut&langs_count=8&card_width=320&theme=dracula#gh-dark-mode-only" />
-</a>
+ [![ETHLossTrap](https://github-readme-stats.vercel.app/api/pin/?username=swags1234&repo=ETHLossTrap&theme=dracula#gh-dark-mode-only)](https://github.com/swags1234/ETHLossTrap)
+[![ETHLossTrap](https://github-readme-stats.vercel.app/api/pin/?username=swags1234&repo=ETHLossTrap&theme=tokyonight#gh-light-mode-only)](https://github.com/swags1234/ETHLossTrap)
 
-<!-- Light (Tokyonight) -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" align="center"
-       src="https://github-readme-stats.vercel.app/api?username=swags1234&show_icons=true&rank_icon=github&theme=tokyonight#gh-light-mode-only" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170" align="center"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=swags1234&layout=donut&langs_count=8&card_width=320&theme=tokyonight#gh-light-mode-only" />
-</a>
+[![daily](https://github-readme-stats.vercel.app/api/pin/?username=swags1234&repo=daily&theme=dracula#gh-dark-mode-only)](https://github.com/swags1234/daily)
+[![daily](https://github-readme-stats.vercel.app/api/pin/?username=swags1234&repo=daily&theme=tokyonight#gh-light-mode-only)](https://github.com/swags1234/daily)
 
