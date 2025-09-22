@@ -64,3 +64,24 @@
 - Strict typing; CI gates; reproducible envs  
 - Observability-first: traces on critical paths  
 - Least-privilege; no long-lived secrets
+
+  <!-- Dark (Dracula) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" align="center"
+       src="https://github-readme-stats.vercel.app/api?username=swags1234&show_icons=true&rank_icon=github&theme=dracula#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=swags1234&layout=donut&langs_count=8&card_width=320&theme=dracula#gh-dark-mode-only" />
+</a>
+
+<!-- Light (Tokyonight) -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" align="center"
+       src="https://github-readme-stats.vercel.app/api?username=swags1234&show_icons=true&rank_icon=github&theme=tokyonight#gh-light-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170" align="center"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=swags1234&layout=donut&langs_count=8&card_width=320&theme=tokyonight#gh-light-mode-only" />
+</a>
+
