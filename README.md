@@ -24,8 +24,13 @@
   </a>
 </p>
 
+<!-- Pulse accent under header -->
 <p align="center">
-  <img src="https://img.shields.io/badge/----------------------------0B1220?style=for-the-badge&labelColor=0B1220&color=0EA5E9" alt="">
+  <img alt="live" height="14" src="https://svgshare.com/i/17vt.svg">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/----------------------------0B1220?style=for-the-badge&labelColor=0B1220&color=0EA5E9" alt="divider">
 </p>
 
 ## `$ whoami` <a id="top"></a>
@@ -60,23 +65,6 @@
 - Strict typing; **CI как ворота**; воспроизводимые окружения.  
 - **Observability-first**: обязательные трассировки критических путей.  
 - Least-privilege; **никаких** long-lived secrets.
-
-## `$ reference-arch`
-
-```text
-client → edge/router → api(s) → service layer → db
-                     ↘ auth  ↘ async worker → queue
-obs: traces (metrics, logs) · feature flags · progressive rollout
-```
-
-<details>
-  <summary><b>$ now</b> · текущий фокус (нажми, чтобы раскрыть)</summary>
-  <br/>
-
-- shipping: опиши в 1 строку актуальную фичу/процесс  
-- learning: 1–2 темы (например, Rust / tracing patterns)
-
-</details>
 
 ---
 
@@ -139,6 +127,6 @@ obs: traces (metrics, logs) · feature flags · progressive rollout
 
 <p align="center">
   <img alt="live" height="14" src="https://svgshare.com/i/17vt.svg">
+  <br>
   <sub>dark background · clean badges · subtle animation</sub>
 </p>
-
