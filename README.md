@@ -1,25 +1,55 @@
-<!-- Dark Terminal × Tech-Spec — profile README -->
-<pre>
-$ whoami
-Nikita — builds reliable systems; shipping fast, testing faster
+<!-- ========== swags1234 • Profile README (Neo-Grid · Dark Neon) ========== -->
 
-$ contact
-telegram: @nikitosixs124
-email:    nikitosix1994@gmail.com
-discord:  swags1
-twitter:  @nikitosixs124
-</pre>
+<!-- Header: animated line -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F1A1&center=true&vCenter=true&width=720&lines=Nikita+(swags1);Builder+of+reliable+systems;DX-obsessed+%E2%80%A2+shipping+fast%2C+testing+faster" alt="typing animation">
+</p>
 
-## principles
-- small, composable services > accidental monoliths
-- strict typing, CI as a gate, reproducible envs
-- observability first: traces on critical paths
-- security by default: least privilege & no long-lived secrets
+<!-- Social: clean clickable badges -->
+<p align="center">
+  <a href="https://t.me/nikitosixs124"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-18181B?logo=telegram&logoColor=00B0F4&labelColor=18181B"></a>
+  <a href="mailto:nikitosix1994@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-18181B?logo=gmail&logoColor=EA4335&labelColor=18181B"></a>
+  <a href="https://x.com/nikitosixs124"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-18181B?logo=x&logoColor=FFFFFF&labelColor=18181B"></a>
+  <a href="https://discordapp.com/users/swags1"><img alt="Discord" src="https://img.shields.io/badge/Discord-18181B?logo=discord&logoColor=5865F2&labelColor=18181B"></a>
+</p>
 
-## selected-work
-<pre>
-[ a ] ETHLossTrap -> repo: https://github.com/swags1234/ETHLossTrap
-[ b ] daily       -> repo: https://github.com/swags1234/daily
-</pre>
+<!-- Thin neon divider -->
+<p align="center">
+  <img src="https://img.shields.io/badge/----------------------------0B1220?style=for-the-badge&labelColor=0B1220&color=0EA5E9" alt="">
+</p>
 
-## reference-arch
+## `$ whoami`
+
+- **Nikita (swags1)** — делаю стабильные сервисы, держу DX простым и быстрым.  
+- Контракты → предсказуемость релизов → наблюдаемость «из коробки».
+
+## `$ selected-work`
+
+<table>
+  <tr>
+    <td>
+      <b>ETHLossTrap</b><br/>
+      Detect & prevent risky ETH transfers (heuristics · policies · audit).<br/>
+      <a href="https://github.com/swags1234/ETHLossTrap">
+        <img alt="Open Repo" src="https://img.shields.io/badge/→%20open%20repo-0EA5E9?labelColor=0B1220">
+      </a>
+    </td>
+    <td>
+      <b>daily</b><br/>
+      Zero-friction tracker of small wins; weekly markdown report.<br/>
+      <a href="https://github.com/swags1234/daily">
+        <img alt="Open Repo" src="https://img.shields.io/badge/→%20open%20repo-0EA5E9?labelColor=0B1220">
+      </a>
+    </td>
+  </tr>
+</table>
+
+## `$ principles`
+
+- Small, composable services → стабильные релизы и понятные откаты.  
+- Strict typing; **CI как ворота**; воспроизводимые окружения.  
+- **Observability-first**: обязательные трассировки критических путей.  
+- Least-privilege; **никаких** long-lived secrets.
+
+## `$ reference-arch`
+
