@@ -2,26 +2,34 @@ name: generate-snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # раз в день
-  workflow_dispatch:
+    - cron: "0 0 * * *"     # раз в день
+  workflow_dispatch:        # руками из Actions
   push:
-    branches: ["main"]
+    branches: ["main"]      # можно убрать, если не нужно
+
+permissions:
+  contents: write           # <<< критично для push в ветку output
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG
+      # генерируем SVG(и) змейки
+      - name: Generate snake SVG(s)
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      # пушим в ветку `output`
       - name: Push to 'output' branch
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
+          keep_history: true
+          commit_message: "chore: update snake svg"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
