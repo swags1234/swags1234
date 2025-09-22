@@ -1,4 +1,4 @@
-<!-- ========== swags1234 • Profile README (Neo-Grid · Dark Neon) ========== -->
+<!--  swags1234 • Profile README (Neo-Grid · Dark Neon)  -->
 
 <p align="center">
   <img
